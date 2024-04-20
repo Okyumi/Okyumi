@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![yumi's github activity graph](https://raw.githubusercontent.com/Okyumi/Okyumi/output/github-contribution-grid-snake.svg)
+- 🌱 I’m currently learning DRL
 <!--
 **Okyumi/Okyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
