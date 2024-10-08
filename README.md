@@ -7,7 +7,7 @@
 
 <!-- Image aligned to the center below the text -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
@@ -25,9 +25,9 @@
       <img src="assets/dog_typing1.gif" alt="Coding" width="300" />
     </td>
   </tr>
-</table>
+</table> -->
 
-<!-- <img align="right" alt="Coding" width="300" src="assets/dog_typing1.gif">
+<img align="right" alt="Coding" src="assets/dog_typing1.gif" style="width: 33%; max-width: 300px; height: auto;">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
@@ -38,7 +38,7 @@
     [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
     [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
     [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-</p> -->
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p> -->
 
