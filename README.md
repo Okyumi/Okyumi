@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="350" src="assets/dog_typing1.gif">
 
-<p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
 <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
 <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
