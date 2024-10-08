@@ -1,3 +1,5 @@
+![Yumi's greeting gif](assets/Animation_github.gif)
+
 ### Hi there 👋
 ![yumi's github activity graph](https://raw.githubusercontent.com/Okyumi/Okyumi/output/github-contribution-grid-snake.svg)
 - 🌱 I’m currently learning DRL
