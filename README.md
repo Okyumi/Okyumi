@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Yumi👋</h1>
-<h3 align="center">a gamer, traveler, and hopefully a life learner 😄</h3>
+<h3 align="center">A gamer, traveler, and hopefully a life learner 😄</h3>
 
 
 <!-- ![Custom SVG](./assets/custom_svg.svg) -->
@@ -15,7 +15,7 @@
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
 <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
 <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-<p>⚡ Fun fact:<br><br>
+<p>⚡ Fun fact:<br>
     [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
     [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
     [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
