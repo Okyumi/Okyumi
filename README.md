@@ -2,7 +2,7 @@
 ![Yumi's greeting gif](assets/Animation_github.gif)
 
 ### Hi there 👋
-![GitHub Snake](https://raw.githubusercontent.com/Okyumi/snk/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Okyumi/snk/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently learning DRL
 <!--
