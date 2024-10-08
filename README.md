@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 - 📫 Reach me @ **yd2247@nyu.edu**
 
-- ⚡ Fun fact: **[2024/7] Recently achieved 100% completion in Tears of the Kingdom**  
-  **Cleared five Ultimate raids in FFXIV [2024/3].**
+- ⚡ Fun fact: **[2024/7] Achieved 100% completion in Tears of the Kingdom.**  
+  **[2024/3] Cleared five Ultimate raids in FFXIV.**
 
 
 <h3 align="left">Languages and Tools:</h3>
