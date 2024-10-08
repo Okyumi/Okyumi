@@ -1,5 +1,5 @@
 ![Yumi's greeting gif](assets/Animation_github2.gif)
-![GitHub Snake](https://raw.githubusercontent.com/Okyumi/Okyumi/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Okyumi/snk/output/github-contribution-grid-snake.svg)
 ![Yumi's greeting gif](assets/Animation_github.gif)
 
 ### Hi there 👋 123
