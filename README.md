@@ -11,10 +11,10 @@
 
 <img align="right" alt="Coding" width="350" src="assets/dog_typing1.gif">
 
-🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
-🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
-<p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-<p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+- 🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
+- 🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
+- 📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a>
+- 📫 Reach me @ <strong>yd2247@nyu.edu</strong>
 <p>⚡ Fun fact:<br>
     [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
     [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
