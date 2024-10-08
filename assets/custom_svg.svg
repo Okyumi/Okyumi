@@ -14,13 +14,13 @@
   <text x="20" y="80" class="text" style="font-size: 16px;">🌱 I’m also interested in condensed matter physics, epigenetics</text>
   <text x="20" y="120" class="text" style="font-size: 16px;">📝 Blogs www.omoriyumi.com</text>
   <text x="20" y="160" class="text" style="font-size: 16px;">📫 Reach me @ yd2247@nyu.edu</text>
-  <text x="20" y="200" class="text" style="font-size: 16px;">
-    ⚡ Fun fact:<br>
-    [2024/7] Achieved 100% completion in Tears of the Kingdom<br>
-    [2024/6] Desperately wanted to learn how to do a backflip<br>
-    [2024/5] Have visited 32 countries on Earth<br>
-    [2024/3] Cleared five Ultimate raids in FFXIV
-  </text>
+
+  <!-- Fun Facts -->
+  <text x="20" y="200" class="text" style="font-size: 16px;">⚡ Fun fact:</text>
+  <text x="20" y="240" class="text" style="font-size: 16px;">[2024/7] Achieved 100% completion in Tears of the Kingdom</text>
+  <text x="20" y="280" class="text" style="font-size: 16px;">[2024/6] Desperately wanted to learn how to do a backflip</text>
+  <text x="20" y="320" class="text" style="font-size: 16px;">[2024/5] Have visited 32 countries on Earth</text>
+  <text x="20" y="360" class="text" style="font-size: 16px;">[2024/3] Cleared five Ultimate raids in FFXIV</text>
 
   <!-- Image (Dog Typing GIF) -->
   <image href="https://raw.githubusercontent.com/okyumi/okyumi/main/assets/dog_typing1.gif" x="510" y="0" width="250" height="250" />
