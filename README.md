@@ -7,7 +7,7 @@
 
 <!-- Image aligned to the center below the text -->
 
-<img align="right" alt="Coding" width="350" src="assets/dog_typing2.gif">
+<img align="right" alt="Coding" width="300" src="assets/dog_typing2.gif">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
@@ -18,7 +18,7 @@
   [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
 </p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p>
 
 
 
@@ -34,7 +34,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p>
+
 
 <p align="center">
   <img src="assets/Animation_github.gif" alt="Yumi's greeting gif2" />
