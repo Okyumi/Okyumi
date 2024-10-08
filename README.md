@@ -54,7 +54,7 @@
         [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
       </p>
     </td>
-    <td style="width: 40%; text-align: center;">
+    <td style="width: 10%; text-align: center;">
       <img src="assets/dog_typing1.gif" alt="Coding" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
