@@ -1,3 +1,4 @@
+![Yumi's greeting gif](assets/Animation_github2.gif)
 ![Yumi's greeting gif](assets/Animation_github.gif)
 
 ### Hi there 👋
