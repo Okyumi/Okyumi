@@ -27,6 +27,9 @@
   </tr>
 </table> -->
 
+![Custom SVG](assets/custom_svg.svg)
+
+
 <img align="right" alt="Coding" src="assets/dog_typing1.gif" style="width: 33%; max-width: 300px; height: auto;">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
