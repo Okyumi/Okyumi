@@ -7,7 +7,7 @@
 
 <!-- Image aligned to the center below the text -->
 
-<img align="right" alt="Coding" width="300" src="assets/dog_typing2.gif">
+<img align="right" alt="Coding" width="300" src="assets/dog_typing1.gif">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
