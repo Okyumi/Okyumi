@@ -5,20 +5,24 @@
 <h1 align="center">Hi there, I'm Yumi 👋</h1>
 <h3 align="center">A console gamer, traveler, and hopefully a life learner 😄</h3>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-    <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-    <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-    <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-    <p>⚡ Fun fact:<br>
-      [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
-      [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-    </p>
-  </div>
-  <div>
-    <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+        <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
+        <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
+        <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+        <p>⚡ Fun fact:<br>
+          [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
+          [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
+        </p>
+      </td>
+      <td>
+        <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
