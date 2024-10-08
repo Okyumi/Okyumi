@@ -6,9 +6,8 @@
 <h3 align="center">A console gamer, traveler, and hopefully a life learner 😄</h3>
 
 <!-- Image aligned to the center below the text -->
-<p align="right">
-  <img src="assets/dog_typing2.gif" alt="Coding" width="300" />
-</p>
+
+<img align="right" alt="Coding" width="350" src="assets/dog_typing2.gif">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
