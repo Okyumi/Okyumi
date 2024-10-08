@@ -10,6 +10,7 @@
 <!-- 123 -->
 
 <img align="right" alt="Coding" width="350" src="assets/dog_typing1.gif">
+
 - 🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
 - 🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
 - 📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a>
