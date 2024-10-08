@@ -2,10 +2,11 @@
 ![GitHub Snake](https://raw.githubusercontent.com/Okyumi/snk/output/github-contribution-grid-snake.svg)
 ![Yumi's greeting gif](assets/Animation_github.gif)
 
-### Hi there 👋 123
+### Hi there 👋 
 
 
 - 🌱 I’m currently learning DRL
+How about I tell you something
 <!--
 **Okyumi/Okyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
