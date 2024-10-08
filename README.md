@@ -1,29 +1,3 @@
-<!-- Include a Google Font -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
-<style>
-  /* Apply the font to the entire body */
-  body {
-    font-family: 'Roboto', sans-serif;
-  }
-
-  /* Align image and text side by side */
-  .container {
-    display: flex;
-    align-items: center;
-  }
-
-  .text {
-    flex: 1;
-  }
-
-  .image {
-    flex: 1;
-    text-align: right;
-  }
-</style>
-
-
 <p align="center">
   <img src="assets/Animation_github2.gif" alt="Yumi's greeting gif" />
 </p>
@@ -31,24 +5,28 @@
 <h1 align="center">Hi there, I'm Yumi 👋</h1>
 <h3 align="center">A console gamer, traveler, and hopefully a life learner 😄</h3>
 
-<div class="container">
-  <div class="text">
-    <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-    <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-    <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-    <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-    <p>⚡ Fun fact:<br>
-      [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
-      [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-    </p>
-  </div>
-  <div class="image">
-    <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+        <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
+        <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
+        <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+        <p>⚡ Fun fact:<br>
+          [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
+          [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
+        </p>
+      </td>
+      <td>
+        <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
