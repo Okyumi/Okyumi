@@ -40,9 +40,10 @@
     [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
 </p> -->
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <!-- Text Section -->
+    <td style="vertical-align: top; width: 65%;">
       <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
       <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
       <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
@@ -54,11 +55,14 @@
         [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
       </p>
     </td>
-    <td style="width: 10%; text-align: center;">
-      <img src="assets/dog_typing1.gif" alt="Coding" style="max-width: 100%; height: auto;" />
+
+    <!-- Image Section -->
+    <td style="vertical-align: top; width: 35%; text-align: right;">
+      <img src="assets/dog_typing1.gif" alt="Coding" style="width: 100%; max-width: 300px; height: auto;" />
     </td>
   </tr>
 </table>
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p> -->
 
