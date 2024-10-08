@@ -5,20 +5,32 @@
 <h1 align="center">Hi there, I'm Yumi 👋</h1>
 <h3 align="center">A console gamer, traveler, and hopefully a life learner 😄</h3>
 
-<!-- Flexbox layout for text and image side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-    <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-    <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-    <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-    <p>⚡ Fun fact:<br>
+<!-- Using inline styles to ensure text and image are side by side -->
+<div style="display: inline-block; width: 100%; vertical-align: top;">
+  <!-- Text part -->
+  <div style="width: 60%; display: inline-block; vertical-align: top; padding-right: 20px;">
+    <p style="font-size: 20px; font-weight: bold; color: #2F4F4F;">
+      🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
+    </p>
+    <p style="font-size: 16px; color: #555;">
+      🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
+    </p>
+    <p style="font-size: 16px;">
+      📝 Blogs <a href="https://www.omoriyumi.com" target="_blank" style="color: #008080;">www.omoriyumi.com</a>
+    </p>
+    <p style="font-size: 16px;">
+      📫 Reach me @ <strong style="color: #FF4500;">yd2247@nyu.edu</strong>
+    </p>
+    <p style="font-size: 14px; color: #696969;">
+      ⚡ Fun fact:<br>
       [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
       [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
     </p>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
+
+  <!-- Image part -->
+  <div style="width: 35%; display: inline-block; vertical-align: top; text-align: right;">
+    <img src="assets/dog_typing2.gif" alt="Coding" width="300" />
   </div>
 </div>
 
@@ -31,6 +43,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Okyumi/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p>
 
 <p align="center">
   <img src="assets/Animation_github.gif" alt="Yumi's greeting gif2" />
