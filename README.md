@@ -7,23 +7,26 @@
 
 <!-- Image aligned to the center below the text -->
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1; min-width: 200px;">
-    <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-    <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-    <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-    <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-    <p>⚡ Fun fact:<br>
+<table>
+  <tr>
+    <td>
+      <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+      <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
+      <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
+      <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+      <p>⚡ Fun fact:<br>
         [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
         [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
         [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
         [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-    </p>
-  </div>
-  <div style="flex: 1; text-align: right; min-width: 300px;">
-    <img src="assets/dog_typing1.gif" alt="Coding" width="300" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+      </p>
+    </td>
+    <td>
+      <img src="assets/dog_typing1.gif" alt="Coding" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p> -->
