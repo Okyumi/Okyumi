@@ -18,7 +18,7 @@
   [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p> -->
 
 
 
