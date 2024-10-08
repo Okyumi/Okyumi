@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hiii, I'm Yumi</h1>
 <h3 align="center">A console gamer, traveler and hopefully a life learner xD</h3>
-<img align="right" alt="Coding" width="400" src="assets/dog_typing2.gif">
+<img align="right" alt="Coding" width="350" src="assets/dog_typing2.gif">
 
 
 - 🔭 I’m currently working on **Deep reinforcement learning**
