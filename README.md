@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Yumi</h1>
 <h3 align="center">A console gamer and life learner xD</h3>
+<img align="right" alt="Coding" width="400" src="assets/dog_typing2.gif">
 
 - 📫 How to reach me **yd2247@nyu.edu omoriyumi8@gmail.com**
 
