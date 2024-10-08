@@ -8,17 +8,26 @@
 <!-- Table layout to align text and image side by side -->
 <table>
   <tr>
-    <td>
-      <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-      <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-      <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
-      <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-      <p>⚡ Fun fact:<br>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p style="font-size: 20px; font-weight: bold; color: #2F4F4F;">
+        🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
+      </p>
+      <p style="font-size: 16px; color: #555;">
+        🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
+      </p>
+      <p style="font-size: 16px;">
+        📝 Blogs <a href="https://www.omoriyumi.com" target="_blank" style="color: #008080;">www.omoriyumi.com</a>
+      </p>
+      <p style="font-size: 16px;">
+        📫 Reach me @ <strong style="color: #FF4500;">yd2247@nyu.edu</strong>
+      </p>
+      <p style="font-size: 14px; color: #696969;">
+        ⚡ Fun fact:<br>
         [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
         [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
       </p>
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
     </td>
   </tr>
