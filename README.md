@@ -15,7 +15,7 @@
 <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
 <p>⚡ Unimportant Fun fact about me:<br><br>
   [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
-  [2024/6] Desperately wanted to learn how to do a backflip<br>
+  [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
   [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
   [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
 </p>
