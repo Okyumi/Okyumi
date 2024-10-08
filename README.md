@@ -5,21 +5,21 @@
 <h1 align="center">Hi there, I'm Yumi 👋</h1>
 <h3 align="center">A console gamer, traveler, and hopefully a life learner 😄</h3>
 
-<p align="right">
-  <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
-</p>
-
-- 🔭 I’m currently working on **Deep reinforcement learning**
-
-- 🌱 I’m also interested in **condensed matter physics, epigenetics**
-
-- 📝 Blogs [www.omoriyumi.com](https://www.omoriyumi.com)
-
-- 📫 Reach me @ **yd2247@nyu.edu**
-
-- ⚡ Fun fact:  
-  **[2024/7] Achieved 100% completion in Tears of the Kingdom**  
-  **[2024/3] Cleared five Ultimate raids in FFXIV**
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+    <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
+    <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
+    <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+    <p>⚡ Fun fact:<br>
+      [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
+      [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
+    </p>
+  </div>
+  <div>
+    <img src="assets/dog_typing2.gif" alt="Coding" width="350" />
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
