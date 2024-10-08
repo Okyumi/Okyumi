@@ -27,7 +27,7 @@
   </tr>
 </table> -->
 
-<img align="right" alt="Coding" src="assets/dog_typing1.gif" style="width: 33%; max-width: 300px; height: auto;">
+<!-- <img align="right" alt="Coding" src="assets/dog_typing1.gif" style="width: 33%; max-width: 300px; height: auto;">
 
 <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
 <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
@@ -38,7 +38,27 @@
     [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
     [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
     [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-</p>
+</p> -->
+
+<table>
+  <tr>
+    <td style="width: 60%; vertical-align: top;">
+      <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
+      <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
+      <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a></p>
+      <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
+      <p>⚡ Fun fact:<br><br>
+        [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
+        [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
+        [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
+        [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
+      </p>
+    </td>
+    <td style="width: 40%; text-align: center;">
+      <img src="assets/dog_typing1.gif" alt="Coding" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okyumi&" alt="okyumi" /></p> -->
 
