@@ -2,8 +2,8 @@
   <img src="assets/Animation_github2.gif" alt="Yumi's greeting gif" />
 </p>
 
-<h1 align="center">Good morning, Good afternoon and Good night👋</h1>
-<h3 align="center">I'm Yumi, a gamer, traveler, reader, and hopefully a life learner 😄</h3>
+<h1 align="center">Hi, I'm Yumi👋</h1>
+<h3 align="center">a gamer, traveler, and hopefully a life learner 😄</h3>
 
 <!-- Image aligned to the center below the text -->
 
