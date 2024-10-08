@@ -10,22 +10,17 @@
   </style>
 
   <!-- Text Content -->
-  <foreignObject width="500" height="400" x="0" y="0">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <div style="font-family: Arial, sans-serif; font-size: 16px;">
-        <p>🔭 I’m currently working on <strong>Deep reinforcement learning</strong></p>
-        <p>🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong></p>
-        <p>📝 Blogs <a href="https://www.omoriyumi.com" target="_blank" style="color: #00aaff;">www.omoriyumi.com</a></p>
-        <p>📫 Reach me @ <strong>yd2247@nyu.edu</strong></p>
-        <p>⚡ Fun fact:<br><br>
-          [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
-          [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
-          [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
-          [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-        </p>
-      </div>
-    </body>
-  </foreignObject>
+  <text x="20" y="40" class="text" style="font-size: 16px;">🔭 I’m currently working on Deep reinforcement learning</text>
+  <text x="20" y="80" class="text" style="font-size: 16px;">🌱 I’m also interested in condensed matter physics, epigenetics</text>
+  <text x="20" y="120" class="text" style="font-size: 16px;">📝 Blogs www.omoriyumi.com</text>
+  <text x="20" y="160" class="text" style="font-size: 16px;">📫 Reach me @ yd2247@nyu.edu</text>
+  <text x="20" y="200" class="text" style="font-size: 16px;">
+    ⚡ Fun fact:<br>
+    [2024/7] Achieved 100% completion in Tears of the Kingdom<br>
+    [2024/6] Desperately wanted to learn how to do a backflip<br>
+    [2024/5] Have visited 32 countries on Earth<br>
+    [2024/3] Cleared five Ultimate raids in FFXIV
+  </text>
 
   <!-- Image (Dog Typing GIF) -->
   <image href="https://raw.githubusercontent.com/okyumi/okyumi/main/assets/dog_typing1.gif" x="510" y="0" width="250" height="250" />
