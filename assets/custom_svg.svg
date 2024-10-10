@@ -57,12 +57,12 @@
             [2024/7] Achieved 100% completion in <strong>Tears of the Kingdom</strong><br>
             [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
             [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
-            [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
+            [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong><br>
         </p>
       </div>
     </body>
   </foreignObject>
 
   <!-- Profile GIF -->
-  <image class="image-container" href="data:image/gif;base64,YOUR_BASE64_STRING_HERE" width="35%" height="100%" x="65%" y="0" />
+  <!-- <image class="image-container" href="data:image/gif;base64,YOUR_BASE64_STRING_HERE" width="35%" height="100%" x="65%" y="0" /> -->
 </svg>
