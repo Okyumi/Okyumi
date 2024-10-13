@@ -26,7 +26,7 @@
       .star { fill: var(--color-star); }
       .shooting-star { stroke: var(--color-shooting-star); }
       
-      .title { font-family: 'Orbitron', sans-serif; font-weight: 700; }
+      .title { font-family: 'Orbitron', monospace; font-weight: 700; }
       .content { font-family: 'Share Tech Mono', monospace; }
 
       @keyframes rotate {
@@ -110,20 +110,20 @@
 
   <g class="text">
     <text class="title highlight breathing" x="20" y="40" font-size="28">Hi, I'm Yumi 👋</text>
-    <text class="content" x="20" y="70" font-size="16">A gamer, traveler, and hopefully a life learner 😄</text>
+    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner XD</text>
     
     <line x1="20" y1="90" x2="780" y2="90" stroke="var(--color-text)" stroke-width="1" opacity="0.5" />
     
     <text class="title highlight breathing" x="20" y="120" font-size="22">About Me</text>
-    <text class="content" x="40" y="150" font-size="16">• Currently working on Deep reinforcement learning</text>
-    <text class="content" x="40" y="180" font-size="16">• Interested in condensed matter physics, epigenetics</text>
-    <text class="content" x="40" y="210" font-size="16">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
-    <text class="content" x="40" y="240" font-size="16">• Reach me: yd2247@nyu.edu</text>
+    <text class="content" x="40" y="150" font-size="19">• Currently working on Deep reinforcement learning</text>
+    <text class="content" x="40" y="180" font-size="19">• Interested in condensed matter physics, epigenetics</text>
+    <text class="content" x="40" y="210" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
+    <text class="content" x="40" y="240" font-size="19">• Reach me: yd2247@nyu.edu</text>
     
     <text class="title highlight breathing" x="20" y="290" font-size="22">Fun Facts</text>
-    <text class="content" x="40" y="320" font-size="16"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
-    <text class="content" x="40" y="350" font-size="16"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
-    <text class="content" x="40" y="380" font-size="16"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
-    <text class="content" x="40" y="410" font-size="16"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
+    <text class="content" x="40" y="320" font-size="19"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
+    <text class="content" x="40" y="350" font-size="19"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
+    <text class="content" x="40" y="380" font-size="19"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
+    <text class="content" x="40" y="410" font-size="19"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
   </g>
 </svg>
