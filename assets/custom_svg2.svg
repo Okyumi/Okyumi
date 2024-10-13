@@ -110,7 +110,7 @@
 
   <g class="text">
     <text class="title highlight breathing" x="20" y="40" font-size="28">Hi, I'm Yumi 👋</text>
-    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner xD</text>
+    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner</text>
     
     <line x1="20" y1="90" x2="780" y2="90" stroke="var(--color-text)" stroke-width="1" opacity="0.5" />
     
