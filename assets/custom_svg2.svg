@@ -74,7 +74,7 @@
   </g>
 
   <!-- Rotating planets with smaller orbits -->
-  <g>
+  <!-- <g>
     <g class="rotate" transform-origin="400 250">
       <circle class="planet1" cx="430" cy="250" r="15">
         <animate attributeName="r" values="15;17;15" dur="4s" repeatCount="indefinite" />
@@ -86,7 +86,7 @@
         <animate attributeName="r" values="12;14;12" dur="5s" repeatCount="indefinite" />
       </circle>
     </g>
-  </g>
+  </g> -->
 
   <!-- Shooting stars -->
   <g class="shooting-star">
