@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/Animation_github2.gif" alt="Yumi's greeting gif" />
 </p>
-
 <img src="assets/profile.svg" width="100%" height="auto" alt="Yumi's GitHub Profile">
 
 <!-- <h1 align="center">Hi, I'm Yumi👋</h1>
