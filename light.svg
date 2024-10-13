@@ -2,10 +2,10 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Share+Tech+Mono&amp;display=swap');
     
-    .text { fill: #c9d1d9; }
-    .highlight { fill: #58a6ff; }
-    .star { fill: #ffffff; }
-    .shooting-star { stroke: #ffffff; }
+    .text { fill: #24292e; }
+    .highlight { fill: #0366d6; }
+    .star { fill: #FFD700; }
+    .shooting-star { stroke: #000000; }
     
     .title { font-family: 'Orbitron', sans-serif; font-weight: 700; }
     .content { font-family: 'Share Tech Mono', monospace; }
@@ -30,34 +30,45 @@
     .breathing { animation: breathe 3s ease-in-out infinite; }
 
     @keyframes wave {
-      0% { transform: rotate(0deg); }
-      50% { transform: rotate(15deg); }
-      100% { transform: rotate(0deg); }
+      0% { transform: rotate(0.0deg); }
+      10% { transform: rotate(14.0deg); }
+      20% { transform: rotate(-8.0deg); }
+      30% { transform: rotate(14.0deg); }
+      40% { transform: rotate(-4.0deg); }
+      50% { transform: rotate(10.0deg); }
+      60% { transform: rotate(0.0deg); }
+      100% { transform: rotate(0.0deg); }
     }
-    .waving { animation: wave 1s infinite; transform-origin: 70% 70%; }
+    .waving { 
+      animation: wave 1.5s linear infinite; 
+      transform-origin: 70% 70%;
+      display: inline-block;
+    }
   </style>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0d1117" />
+
+    <!-- Star shape -->
+    <path id="star" d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5 Z" />
+  </defs>
+
+
+  <rect width="100%" height="100%" fill="#ffffff" />
 
   <!-- Twinkling stars -->
   <g class="star">
-    <circle cx="100" cy="50" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" /></circle>
-    <circle cx="700" cy="100" r="2"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" /></circle>
-    <circle cx="300" cy="400" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" /></circle>
-    <circle cx="750" cy="450" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" /></circle>
-    <circle cx="200" cy="350" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite" /></circle>
-    <circle cx="600" cy="200" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite" /></circle>
-  </g>
-
-  <!-- Rotating planets -->
-  <g>
-    <circle class="planet1" cx="700" cy="100" r="20">
-      <animateTransform attributeName="transform" type="rotate" from="0 700 100" to="360 700 100" dur="20s" repeatCount="indefinite" />
-    </circle>
-    <circle class="planet2" cx="100" cy="400" r="15">
-      <animateTransform attributeName="transform" type="rotate" from="0 100 400" to="360 100 400" dur="15s" repeatCount="indefinite" />
-    </circle>
+    <use href="#star" x="50" y="50"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" /></use>
+    <use href="#star" x="150" y="80"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" /></use>
+    <use href="#star" x="280" y="40"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" /></use>
+    <use href="#star" x="400" y="100"><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" /></use>
+    <use href="#star" x="500" y="60"><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite" /></use>
+    <use href="#star" x="650" y="90"><animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite" /></use>
+    <use href="#star" x="750" y="40"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" /></use>
+    <use href="#star" x="100" y="300"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" /></use>
+    <use href="#star" x="200" y="400"><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" /></use>
+    <use href="#star" x="300" y="350"><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite" /></use>
+    <use href="#star" x="450" y="450"><animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite" /></use>
+    <use href="#star" x="600" y="380"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" /></use>
+    <use href="#star" x="700" y="420"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" /></use>
   </g>
 
   <!-- Shooting stars -->
@@ -81,21 +92,22 @@
   </g>
 
   <g class="text">
-    <text class="title highlight breathing" x="20" y="40" font-size="28">Hi, I'm Yumi 👋</text>
-    <text class="content" x="20" y="70" font-size="16">A gamer, traveler, and hopefully a life learner 😄</text>
+    <text class="title highlight breathing" x="20" y="40" font-size="28">Hi, I'm Yumi <tspan class="waving">👋</tspan></text>
+    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner</text>
     
     <line x1="20" y1="90" x2="780" y2="90" stroke="var(--color-text)" stroke-width="1" opacity="0.5" />
     
     <text class="title highlight breathing" x="20" y="120" font-size="22">About Me</text>
-    <text class="content" x="40" y="150" font-size="16">• Currently working on Deep reinforcement learning</text>
-    <text class="content" x="40" y="180" font-size="16">• Interested in condensed matter physics, epigenetics</text>
-    <text class="content" x="40" y="210" font-size="16">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
-    <text class="content" x="40" y="240" font-size="16">• Reach me: yd2247@nyu.edu</text>
+    <text class="content" x="40" y="150" font-size="19">• Currently working on Deep reinforcement learning</text>
+    <text class="content" x="40" y="180" font-size="19">• Interested in condensed matter physics, epigenetics</text>
+    <text class="content" x="40" y="210" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
+    <text class="content" x="40" y="240" font-size="19">• Reach me: yd2247@nyu.edu</text>
     
     <text class="title highlight breathing" x="20" y="290" font-size="22">Fun Facts</text>
-    <text class="content" x="40" y="320" font-size="16"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
-    <text class="content" x="40" y="350" font-size="16"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
-    <text class="content" x="40" y="380" font-size="16"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
-    <text class="content" x="40" y="410" font-size="16"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
+    <text class="content" x="40" y="320" font-size="19"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
+    <text class="content" x="40" y="350" font-size="19"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
+    <text class="content" x="40" y="380" font-size="19"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
+    <text class="content" x="40" y="410" font-size="19"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
   </g>
+</svg>
 </svg>
