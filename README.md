@@ -4,7 +4,7 @@
 
 <img src="assets/custom_svg2.svg" width="100%" height="auto" alt="Yumi's GitHub Profile">
 
-<h1 align="center">Hi, I'm Yumi👋</h1>
+<!-- <h1 align="center">Hi, I'm Yumi👋</h1>
 <h3 align="center">A gamer, traveler, and hopefully a life learner 😄</h3>
 
 
@@ -13,7 +13,7 @@
 
 <!-- <img align="right" alt="Coding" width="350" src="assets/dog_typing1.gif"> -->
 
-- 🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
+<!-- - 🔭 I’m currently working on <strong>Deep reinforcement learning</strong>
 - 🌱 I’m also interested in <strong>condensed matter physics, epigenetics</strong>
 - 📝 Blogs <a href="https://www.omoriyumi.com" target="_blank">www.omoriyumi.com</a>
 - 📫 Reach me @ <strong>yd2247@nyu.edu</strong>
@@ -22,7 +22,7 @@
     [2024/6] Desperately wanted to learn how to do a <strong>backflip</strong><br>
     [2024/5] Have visited 32 countries on <strong>Earth</strong><br>
     [2024/3] Cleared five Ultimate raids in <strong>FFXIV</strong>
-</p>
+</p> --> -->
 
 
 
