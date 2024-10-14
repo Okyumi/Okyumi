@@ -5,8 +5,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Yumi's GitHub Profile" src="light.svg">
+    <source media="(prefers-color-scheme: light2)" srcset="light2.svg">
+    <img alt="Yumi's GitHub Profile" src="light2.svg">
   </picture>
 </p>
 
