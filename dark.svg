@@ -89,13 +89,13 @@
 
   <g class="text">
     <text class="title highlight breathing" x="20" y="40" font-size="28">Hi, I'm Yumi <tspan class="waving">👋</tspan></text>
-    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner</text>
+    <text class="content" x="20" y="70" font-size="19">A gamer, traveler, and hopefully a life learner xD</text>
     
     <line x1="20" y1="90" x2="780" y2="90" stroke="var(--color-text)" stroke-width="1" opacity="0.5" />
     
     <text class="title highlight breathing" x="20" y="120" font-size="22">About Me</text>
     <text class="content" x="40" y="150" font-size="19">• Currently working on Deep reinforcement learning</text>
-    <text class="content" x="40" y="180" font-size="19">• Interested in condensed matter physics, epigenetics</text>
+    <text class="content" x="40" y="180" font-size="19">• Also Interested in condensed matter physics, epigenetics</text>
     <text class="content" x="40" y="210" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
     <text class="content" x="40" y="240" font-size="19">• Reach me: yd2247@nyu.edu</text>
     
