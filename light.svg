@@ -47,9 +47,6 @@
   </style>
 
 
-    <!-- Star shape -->
-    <path id="star" d="M0,-5 L1.5,-1.5 L5,0 L1.5,1.5 L0,5 L-1.5,1.5 L-5,0 L-1.5,-1.5 Z" />
-  </defs>
 
 
   <rect width="100%" height="100%" fill="#ffffff" />
@@ -109,5 +106,4 @@
     <text class="content" x="40" y="380" font-size="19"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
     <text class="content" x="40" y="410" font-size="19"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
   </g>
-</svg>
 </svg>
