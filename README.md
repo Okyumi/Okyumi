@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-light.svg">
-    <img alt="Yumi's GitHub Profile" src="profile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Yumi's GitHub Profile" src="light.svg">
   </picture>
 </p>
 
