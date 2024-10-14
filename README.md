@@ -2,13 +2,13 @@
   <img src="assets/Animation_github2.gif" alt="Yumi's greeting gif" />
 </p>
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light.svg" />
-    <img src="light.svg" alt="Yumi Omori" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="profile-light.svg" width="100%">
+    <img alt="Yumi's GitHub Profile" src="profile-light.svg" width="100%">
   </picture>
-</p>
+</div>
 
 <!-- <h1 align="center">Hi, I'm Yumi👋</h1>
 <h3 align="center">A gamer, traveler, and hopefully a life learner 😄</h3>
