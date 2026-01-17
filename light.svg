@@ -96,7 +96,7 @@
     
     <text class="title highlight breathing" x="20" y="120" font-size="22">About Me</text>
     <text class="content" x="40" y="150" font-size="19">• Currently working on Deep reinforcement learning</text>
-    <text class="content" x="40" y="180" font-size="19">• Interested in Online RL, Continual RL, Offline RL, Goal-conditioned RL</text>
+    <text class="content" x="40" y="180" font-size="19">• Online RL, Continual RL, Offline RL, Gontrastive RL</text>
     <text class="content" x="40" y="210" font-size="19">• Hobbies: condensed matter physics, epigenetics</text>
     <text class="content" x="40" y="240" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
     <text class="content" x="40" y="270" font-size="19">• Reach me at yd2247@nyu.edu</text>
