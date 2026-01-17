@@ -96,14 +96,16 @@
     
     <text class="title highlight breathing" x="20" y="120" font-size="22">About Me</text>
     <text class="content" x="40" y="150" font-size="19">• Currently working on Deep reinforcement learning</text>
-    <text class="content" x="40" y="180" font-size="19">• Also Interested in condensed matter physics, epigenetics</text>
-    <text class="content" x="40" y="210" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
-    <text class="content" x="40" y="240" font-size="19">• Reach me: yd2247@nyu.edu</text>
+    <text class="content" x="40" y="180" font-size="19">• Interested in Online RL, Continual RL, Offline RL, Goal-conditioned RL</text>
+    <text class="content" x="40" y="210" font-size="19">• Hobbies: condensed matter physics, epigenetics</text>
+    <text class="content" x="40" y="240" font-size="19">• Blog: <tspan class="highlight">www.omoriyumi.com</tspan></text>
+    <text class="content" x="40" y="270" font-size="19">• Reach me at yd2247@nyu.edu</text>
     
     <text class="title highlight breathing" x="20" y="290" font-size="22">Fun Facts</text>
-    <text class="content" x="40" y="320" font-size="19"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
-    <text class="content" x="40" y="350" font-size="19"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
-    <text class="content" x="40" y="380" font-size="19"><tspan class="highlight">[2024/5]</tspan> Visited 32 countries on Earth</text>
-    <text class="content" x="40" y="410" font-size="19"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
+    <text class="content" x="40" y="320" font-size="19"><tspan class="highlight">[2025/11]</tspan> Visited 45 countries on Earth</text>
+    <text class="content" x="40" y="350" font-size="19"><tspan class="highlight">[2024/7]</tspan> 100% completion in Tears of the Kingdom</text>
+    <text class="content" x="40" y="380" font-size="19"><tspan class="highlight">[2024/6]</tspan> Learning to do a backflip</text>
+    <text class="content" x="40" y="410" font-size="19"><tspan class="highlight">[2024/5]</tspan> First Half Marathon</text>
+    <text class="content" x="40" y="440" font-size="19"><tspan class="highlight">[2024/3]</tspan> Cleared five Ultimate raids in FFXIV</text>
   </g>
 </svg>
