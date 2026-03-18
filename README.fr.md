@@ -34,20 +34,20 @@ Gameuse, voyageuse et, je l'espere, eternelle apprenante.
 
 Selection de [omoriyumi.com](https://www.omoriyumi.com) :
 
-- [Why Time Don't Exist](https://omoriyumi.com/blog/2026/01/14/why-time-dont-exist/)
-- [A Leap of Faith in the Complexity of Life: Mitochondria | Pantheon](https://omoriyumi.com/blog/2025/11/17/complexity-leap-of-life-mitochondria-pantheon/)
-- [On "Intelligence without Representation"](https://omoriyumi.com/blog/2025/09/21/on-intelligence-without-representation/)
-- [Can Deep Learning Replace the Traditional Laws of Physics?](https://omoriyumi.com/blog/2024/11/15/can-deep-learning-replace-the-traditional-laws-of-physics/)
-- [We Are Analogy Machines | Intelligence versus Knowledge | Klara and the Sun](https://omoriyumi.com/blog/2025/05/01/2429/)
-- ["In Mathematics, the Art of Asking Questions Is More Valuable Than Solving Problems"](https://omoriyumi.com/blog/2023/03/01/in-mathematics-the-art-of-asking-questions-is-more-valuable-than-solving-problems/)
-- [Leave the Door to the Unknown Ajar](https://omoriyumi.com/blog/2025/04/03/leave-the-door-to-the-unknown-ajar/)
-- [Where Is an Airplane's Fuel Stored? | Crash Course on Airbus A380](https://omoriyumi.com/blog/2025/08/02/where-is-an-airplanes-fuel-stored-crash-course-on-airbus-a380/)
-- [MCTS in AlphaProof | Is RL a Viable Path Towards AGI?](https://omoriyumi.com/blog/2025/04/13/mtcs-in-alphaproof-is-rl-a-viable-path-towards-agi-esa-es-la-fuerza-de-la-vida/)
-- [Why We Cannot Hear Gravitational Fields?](https://omoriyumi.com/blog/2023/10/03/why-we-cannot-hear-gravitational-fields/)
-- [On OAK, How to Design Super-Intelligence | Is Our Universe a Simulated One?](https://omoriyumi.com/blog/2025/08/11/on-oak-how-to-design-super-intelligence-a-cliche-question-is-our-universe-a-simulated-one-intersubjective-reality/)
-- [Life Save Point [ver. 25.09.21]](https://omoriyumi.com/blog/2025/09/17/life-save-point/)
-- [Life in Three Dimensions | Non-linear Brain | Ting Irie](https://omoriyumi.com/blog/2025/04/20/life-in-three-dimensions-non-linear-brain-ting-irie/)
-- [Why Does the Cycle of Life Demand Dominion Over Cells and Sentience?](https://omoriyumi.com/blog/2023/09/16/do-we-no-longer-need-to-use-animals-in-our-pursuit-of-understanding-human-behavior-with-the-advent-of-neuroimaging-techniques/)
+- [Why Time Don't Exist](https://github.com/Okyumi/featured-blogs/blob/main/blogs/why-time-dont-exist.md)
+- [A Leap of Faith in the Complexity of Life: Mitochondria | Pantheon](https://github.com/Okyumi/featured-blogs/blob/main/blogs/complexity-leap-of-life-mitochondria-pantheon.md)
+- [On "Intelligence without Representation"](https://github.com/Okyumi/featured-blogs/blob/main/blogs/on-intelligence-without-representation.md)
+- [Can Deep Learning Replace the Traditional Laws of Physics?](https://github.com/Okyumi/featured-blogs/blob/main/blogs/can-deep-learning-replace-the-traditional-laws-of-physics.md)
+- [We Are Analogy Machines | Intelligence versus Knowledge | Klara and the Sun](https://github.com/Okyumi/featured-blogs/blob/main/blogs/we-are-analogy-machines.md)
+- ["In Mathematics, the Art of Asking Questions Is More Valuable Than Solving Problems"](https://github.com/Okyumi/featured-blogs/blob/main/blogs/in-mathematics-the-art-of-asking-questions.md)
+- [Leave the Door to the Unknown Ajar](https://github.com/Okyumi/featured-blogs/blob/main/blogs/leave-the-door-to-the-unknown-ajar.md)
+- [Where Is an Airplane's Fuel Stored? | Crash Course on Airbus A380](https://github.com/Okyumi/featured-blogs/blob/main/blogs/where-is-an-airplanes-fuel-stored.md)
+- [MCTS in AlphaProof | Is RL a Viable Path Towards AGI?](https://github.com/Okyumi/featured-blogs/blob/main/blogs/mcts-in-alphaproof.md)
+- [Why We Cannot Hear Gravitational Fields?](https://github.com/Okyumi/featured-blogs/blob/main/blogs/why-we-cannot-hear-gravitational-fields.md)
+- [On OAK, How to Design Super-Intelligence | Is Our Universe a Simulated One?](https://github.com/Okyumi/featured-blogs/blob/main/blogs/on-oak-how-to-design-super-intelligence.md)
+- [Life Save Point [ver. 25.09.21]](https://github.com/Okyumi/featured-blogs/blob/main/blogs/life-save-point.md)
+- [Life in Three Dimensions | Non-linear Brain | Ting Irie](https://github.com/Okyumi/featured-blogs/blob/main/blogs/life-in-three-dimensions.md)
+- [Why Does the Cycle of Life Demand Dominion Over Cells and Sentience?](https://github.com/Okyumi/featured-blogs/blob/main/blogs/why-does-the-cycle-of-life-demand-dominion.md)
 
 ### Langages et outils
 
